@@ -9,3 +9,4 @@ There are various operators python below are the ones commonly used:
 - Logical Operators
 - Membership Operators
 - Precedence Operators
+- Relational Operators
