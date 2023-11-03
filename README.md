@@ -8,3 +8,4 @@ There are various operators python below are the ones commonly used:
 - Identity Operators
 - Logical Operators
 - Membership Operators
+- Precedence Operators
