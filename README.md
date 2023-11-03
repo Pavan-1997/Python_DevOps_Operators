@@ -6,3 +6,4 @@ There are various operators python below are the ones commonly used:
 - Assisgnment Operators
 - Bitwise Operators
 - Identity Operators
+- Logical Operators
