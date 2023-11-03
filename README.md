@@ -5,3 +5,4 @@ There are various operators python below are the ones commonly used:
 - Arithmetic Operators
 - Assisgnment Operators
 - Bitwise Operators
+- Identity Operators
