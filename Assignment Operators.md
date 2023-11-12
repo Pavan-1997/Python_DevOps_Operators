@@ -1,5 +1,5 @@
 # Assignment Operations in Python
- 
+  
 ## Introduction    
  
 Assignment operators in Python are used to assign values to variables. They include the basic assignment operator (=) and various compound assignment operators that perform an operation on the variable while assigning a value.
