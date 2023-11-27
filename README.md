@@ -1,4 +1,4 @@
-# Python_DevOps_Operators
+# Python_DevOps_Operators 
                      
 There are various operators in python below are the ones commonly used:
 
